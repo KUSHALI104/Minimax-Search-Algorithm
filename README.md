@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:  M MANI SRI LATHA        </h3>
-<h3>Register Number:  212223110025      </h3>
+<h3>Name:P G KUSHALI       </h3>
+<h3>Register Number:212223230110     </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
